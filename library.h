@@ -1,0 +1,4 @@
+#ifndef DEMOC_LIBRARY_H
+#define DEMOC_LIBRARY_H
+
+#endif //DEMOC_LIBRARY_H
